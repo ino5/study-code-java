@@ -9,7 +9,7 @@ https://www.acmicpc.net/problem/2667
 220830 이후 다시 풀어봤다.
 
  */
-public class Main {
+public class Main_220901 {
     static int N;
     static Queue<int[]> bfsQue = new LinkedList<>();
     static boolean[][] map;

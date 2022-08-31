@@ -17,7 +17,7 @@ https://www.acmicpc.net/problem/2667
 - 문제 다시 풀어보기
 
  */
-public class Main_220830_2232 {
+public class Main_220830 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         final int N = sc.nextInt(); // 맵 길이
