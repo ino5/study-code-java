@@ -2,6 +2,9 @@ package etc.woowaprecourse;
 
 import java.util.*;
 
+/**
+ * https://github.com/woowacourse-precourse/java-onboarding/blob/main/docs/PROBLEM6.md
+ */
 public class Problem6 {
 
     /** 체크맵: 값이 true일 경우 해당 문자열은 중복으로 간주된다. */
